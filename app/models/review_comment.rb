@@ -1,5 +1,5 @@
 class ReviewComment < ApplicationRecord
   
   belongs_to :review
-  belongs_to :use
+  belongs_to :uses
 end
