@@ -4,4 +4,12 @@ class Public::UsersController < ApplicationController
 
   def edit
   end
+
+  def confirm_withdraw
+
+  end
+
+  def withdraw
+    
+  end
 end
